@@ -1,8 +1,11 @@
-#Учебная сборка Loftschool (выпускной проект №1) 
+#Учебная сборка Loftschool (выпускной проект №1)
+Lev Andelman
+
+Added 2 tasks sprite and prodcopy
 
 Stack:
  - Gulp 4.0
- 
+
 Getting started:
 
 1. clone this repo
